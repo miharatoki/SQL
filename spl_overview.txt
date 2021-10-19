@@ -1,0 +1,8 @@
+広くつかわrている形式はRDB(Relational Data Base)といい、複数の表でデータを管理する。
+テーブル… 一つ一つの表で、列と行で構成されている
+行…　一件のデータ
+列… データの要素
+テーブル名…　テーブルの名前
+
+データベース管理システム(DBMS)… SQLを書いて送る相手。　SQLの内容によって、データベースを書き換えたり検索したりするプログラム。
+RDBMS(Relational Date Base Management System)… RDBの形式でデータを取り扱うDBMS
